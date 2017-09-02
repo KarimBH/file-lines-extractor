@@ -1,0 +1,4 @@
+.idea/
+FileLinesExtractor.iml
+target/
+!/.gitignore
